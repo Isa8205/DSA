@@ -173,13 +173,12 @@ class DoubleLinkedList {
     }
 }
 
-
-const list = new DoubleLinkedList
-list.insertAtHead(12)
-list.insertAtHead(16)
-list.insertAtTail(14)
-list.insertAtTail('Tail')
-list.print()
-list.delete(16)
-list.delete('Tail')
-list.print()
+// const list = new DoubleLinkedList
+// list.insertAtHead(12)
+// list.insertAtHead(16)
+// list.insertAtTail(14)
+// list.insertAtTail('Tail')
+// list.print()
+// list.delete(16)
+// list.delete('Tail')
+// list.print()
